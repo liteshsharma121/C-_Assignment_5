@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-class Student {
+class Student { 
 private:
     int rollNo;
     string name;
